@@ -1,0 +1,9 @@
+// fixes issues with ctrl+k not working in terminal apps ie. `cut text` in nano
+
+[
+  {
+    "key": "ctrl+k",
+    "command": "terminal.focus",
+    "when": "terminalFocus"
+  }
+]
