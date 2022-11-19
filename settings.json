@@ -1,0 +1,5 @@
+// fixes some compilation issues on windows systems
+
+"terminal.integrated.env.windows": {
+    "NODE_OPTIONS": "--openssl-legacy-provider"
+}
