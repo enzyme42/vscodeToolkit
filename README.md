@@ -1,2 +1,2 @@
 # vscodeToolkit
-Collection of configuration files for Visual Studio Code
+Collection of configuration files for Visual Studio Code.
